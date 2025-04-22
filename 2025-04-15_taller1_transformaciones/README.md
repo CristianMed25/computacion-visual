@@ -70,6 +70,8 @@ def matriz_escala(sx, sy):
 
 ### 📷 Captura
 
+![Image](https://github.com/user-attachments/assets/b070dc5b-c6b3-44ae-8558-abd8ff899e5a)
+
 ### 🧠 Características importantes
 
 - Interpolación de movimiento entre vértices usando PVector.lerp.
@@ -111,6 +113,8 @@ void draw() {
 
 ### 📷 Captura
 
+![Image](https://github.com/user-attachments/assets/14b0f23d-09d3-403f-b9f2-98db3aa48fc5)
+
 ### 🧠 Características importantes
 
 - Uso de useFrame para animar en tiempo real.
@@ -130,3 +134,32 @@ useFrame(({ clock }) => {
   meshRef.current.scale.set(scale, scale, scale);
 });
 ```
+## 🚀 Ejecución
+### 🐍 Python
+- Instalar librerias:
+```python
+pip install matplotlib numpy imageio
+```
+- Ejecutar TransformacionesGeometricasPentagono.ipynb.
+
+### ⚙️ Processing
+- Abrir el archivo AnimatedRing3D.pde en el entorno de Processing.
+
+- Hacer click en Run para visualizar la animación.
+
+### 🧊 Three.js (React)
+
+- **Ingresar en la carpeta del proyecto:** 
+```terminal
+cd threejs/transformacionestaller
+```
+- **instalar las dependencias del proyecto:** 
+```terminal
+npm install
+```
+- **Ejecutar el proyecto:**
+```terminal
+npm run dev
+```
+
+Abrir en el navegador: http://localhost:5173
