@@ -135,15 +135,13 @@ export default function App() {
 🐍 Python
 Se generó una animación mostrando la rotación del modelo Monito.obj y los datos relacionados a sus componentes de la malla.
 
-```markdown
 ![monito_animado_python.gif](/resultados/monito_animado_python.gif)
-```
+
 🌐 React Three Fiber
 Se desarrolló una aplicación web interactiva que carga el modelo Monito.obj y permite alternar entre vistas de caras, aristas y vértices, mostrando además la cantidad aproximada de los componentes de la malla.
 
-```markdown
 ![monito_animado_threejs.gif](/resultados/monito_animado_threejs.gif)
-```
+
 ---
 
 ## 🧩 Prompts Usados
