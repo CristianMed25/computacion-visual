@@ -135,15 +135,15 @@ La clave está en dividir los bordes en listas de coordenadas X por fila, y lueg
 
 * Línea roja generada por el algoritmo de Bresenham.
 
-![linea.png](resultados/linea.png)
+![linea.PNG](resultados/linea.PNG)
 
 * Círculo azul generado con punto medio.
 
-![circulo.png](resultados/circulo.png)
+![circulo.PNG](resultados/circulo.PNG)
 
 * Triángulo verde relleno usando interpolación.
 
-![triangulo.png](resultados/triangulo.png)
+![triangulo.PNG](resultados/triangulo.PNG)
 
 ---
 
