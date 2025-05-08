@@ -108,7 +108,7 @@ Se muestran los resultados en subplots comparativos.
 
 Comparación de imagen original, blur, sharpen, Sobel y Laplaciano.
 
-![miquito_filtros.png](resultados/miquito_filtros.png)
+![miquito_filtros.PNG](resultados/miquito_filtros.PNG)
 
 Visualizacion webcam y sliders.
 
