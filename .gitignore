@@ -25,3 +25,10 @@ __pycache__/
 *.jar
 *.exe
 *.log
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
